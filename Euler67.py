@@ -1,4 +1,5 @@
 # 100 x 100 namesto 15 x 15
+# To sem reševal preden smo delei z datotekami
 
 def searcher():
     slovar = {}
